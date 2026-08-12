@@ -1,7 +1,6 @@
 public class Company  {
 
 
-
 	private String cName;
 	private int cId;
 	private float area;
