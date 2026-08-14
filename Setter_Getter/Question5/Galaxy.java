@@ -14,7 +14,7 @@ public class Galaxy{
 	return gName;
 	}
 
-	public double setGarea(double area){
+	public void setGarea(double area){
 	this.gArea = area;
 	}
 	
